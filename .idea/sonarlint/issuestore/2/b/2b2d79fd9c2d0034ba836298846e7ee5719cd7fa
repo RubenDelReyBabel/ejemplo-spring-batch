@@ -1,0 +1,19 @@
+
+ˆ
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.( Ê”ä8Ã»¹†ï1J$1de4238c-d568-4f70-b718-e1d53a59dbfa
+o
+java:S3599=",Use another way to initialize this instance.(æÏğ8È»¹†ï1J$c44a2b95-2c5b-4036-94c4-09b38637934f
+œ
+java:S1171="YMove the contents of this initializer to a standard constructor or to field initializers.(æÏğ8Ê»¹†ï1J$1347a589-c30b-4edb-af4c-de9ab94dea2e
+’
+java:S1128"JRemove this unused import 'org.springframework.core.io.ClassPathResource'.(İ¹º§ıÿÿÿÿ8—„İ†ï1J$8395110e-9044-43bf-9641-48fd0097c41d
+l
+java:S1128!")Remove this unused import 'java.io.File'.(†Ğ¥Å8—„İ†ï1J$c0ce7426-05c0-49d1-9371-62377321b9dd
+s
+java:S1128#"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8—„İ†ï1J$1220ab0d-f5c8-4c11-9ecf-e70f35e48c9a
+t
+java:S1128$"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8—„İ†ï1J$449614ae-d1dd-40ae-8a07-0fec24061511
+s
+java:S1128%"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8—„İ†ï1J$21fec7b2-7a76-4b25-9985-f46759704e99
+€
+java:S1128&"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8—„İ†ï1J$876673b5-a758-4fa3-b78a-16571e72b1c7

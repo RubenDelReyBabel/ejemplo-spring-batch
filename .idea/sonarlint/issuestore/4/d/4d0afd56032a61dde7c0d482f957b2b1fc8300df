@@ -1,0 +1,6 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Σ†²„ο1J$a666f23b-2111-47a1-acf8-8bd91804a9fd
+o
+java:S3599)",Use another way to initialize this instance.(Ή¨Υ¦8’Φ±„ο1J$d422a3c2-e666-4a12-ac35-7dc8c83d97e3
+
+java:S1171)"YMove the contents of this initializer to a standard constructor or to field initializers.(Ή¨Υ¦8”Φ±„ο1J$b9d01d6c-3778-475a-aa51-594ea6524d81

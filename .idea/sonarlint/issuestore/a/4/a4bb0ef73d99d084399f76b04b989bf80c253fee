@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ã……ï1J$ff7e497c-423f-4d85-ab4e-17fed2e024ae
+l	java:S106"+Replace this use of System.out by a logger.(ş¸û38Ïô©…ï1J$719e18eb-72eb-4801-bde1-8156f4bdc36c
+
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ş¸û38ä……ï1J$0314ba60-87f9-4862-a9a2-c9e53449497f
+
+java:S1128"GRemove this unused import 'es.neesis.demospringbatch.model.UserEntity'.(ß–ßÉüÿÿÿÿ8å……ï1J$fcddc70a-17e3-474a-9cf3-7812f73417fe
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8å……ï1J$41fb1978-6d4a-47e5-be3d-82a0d962179a

@@ -1,0 +1,17 @@
+
+‡
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ËÔá‹8í»ö…ï1J$a6929ef3-3e5d-4109-bf19-3a73a2ccb961
+m	java:S106#"+Replace this use of System.out by a logger.(ìºüÍ8ô»ö…ï1J$35146a92-54c9-4010-beee-570b3d3c7021
+
+java:S1128"VRemove this unused import 'es.neesis.demospringbatch.config.batch.BatchConfiguration'.(ÛÒ–øüÿÿÿÿ8õ»ö…ï1J$3e15f67c-cbbb-4856-808a-663dba8da2c4
+„
+java:S1128	"ARemove this unused import 'org.springframework.core.io.Resource'.(¹ÒÁ8õ»ö…ï1J$3cc2657b-8db1-4b20-bd6d-b186267139aa
+§
+java:S1128
+"dRemove this unused import 'org.springframework.core.io.support.PathMatchingResourcePatternResolver'.(˜İ“‹8ö»ö…ï1J$19126f36-d746-4b06-8eaf-59cd45679cda
+ 
+java:S1128"XRemove this unused import 'org.springframework.core.io.support.ResourcePatternResolver'.(úì¥âüÿÿÿÿ8ö»ö…ï1J$b2cb7cf4-3b72-4755-abcc-50a26068bc0e
+r
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8ö»ö…ï1J$7679ce3a-5e5c-4bfa-a95a-999f82385440
+s
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8÷»ö…ï1J$467d5552-d124-424d-b78b-2c78410aa122
